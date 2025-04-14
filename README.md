@@ -16,7 +16,7 @@ React Native app to toggle screenshot capture ON/OFF using native code.
 
 ## Install & Run
 
-git clone https://github.com/your-username/screenshot-toggler-app
+git clone https://github.com/Anjalgupta28/screenshot-toggler-app
 cd screenshot-toggler-app
 npm install
 npx pod-install
